@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Machine Learning And NeuroImage Analysis Laboratory"
+excerpt: "Machine Learning And NeuroImage Analysis Laboratory"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Our research in MIND mainly focuses on the discovery of fundamental principles of brain structural and functional architectures and their relationship, via brain imaging, computational modeling and machine learning methods. We are interested in the interaction between Artificial Intelligence (AI) and Human Intelligence (HI): Using Deep Learning to facilitate the analysis and interpretation of brain data; Applying neuroscience knowledge to design more efficient Deep Learning architectures. We also have strong interests in applying the discovered principles, theories and methods to better understand neurodevelopmental, neurodegenerative and psychiatric disorders including Autism, Alzheimer’s disease, and Major Depression, among other brain conditions.
 This is Dr. Qinghua Zhao's home on the web!
 
 A data-driven personal website
