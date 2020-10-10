@@ -14,7 +14,7 @@ Education
 * B.S. in Nanjing, Nanjing University of Science and Technology, 2008
 * M.S. in Nanjing, Nanjing University of Science and Technology, 2011
 * Ph.D in Nanjing, Nanjing University of Science and Technology, 2018
-* Visting Scholar in Athens, Georgia,U.S, The University of Georgia, 2013-2016
+* Visiting Scholar in Athens, Georgia,U.S, The University of Georgia, 2013-2016
 
 Work experience
 ======
