@@ -4,16 +4,19 @@ main:
  # url: /Home/
 
  # - title: "Talks"
-  #  url: /talks/
+ #  url: /talks/
   - title: "About"
     url: /about/
+
+   - title: "Teaching"
+    url: /teaching/
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
+ # - title: "Teaching"
+ #  url: /teaching/
+
   - title: "Portfolio"
     url: /portfolio/
         
