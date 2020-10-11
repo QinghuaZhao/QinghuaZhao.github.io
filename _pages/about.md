@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Machine Learning And NeuroImage Analysis Laboratory"
+title: "Machine Learning and NeuroImage Analysis Laboratory"
 excerpt: "Machine Learning And NeuroImage Analysis Laboratory"
 author_profile: true
 redirect_from: 
