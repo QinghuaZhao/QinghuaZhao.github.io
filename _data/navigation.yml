@@ -4,10 +4,10 @@ main:
     url: /about/
 
   - title: "People"
-    url: /teaching/
+    url: /portfolio/
 
   - title: "Reserch"
-    url: /portfolio/
+    url: /teaching/
         
   - title: "Publications"
     url: /publications/
