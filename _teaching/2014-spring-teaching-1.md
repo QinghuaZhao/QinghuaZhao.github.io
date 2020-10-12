@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Functional Networks and Interactions"
 collection: Functional Networks and Interactions
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
