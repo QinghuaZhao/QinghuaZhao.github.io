@@ -1,5 +1,5 @@
 ---
-title: "Graph Theory and Complex Network Analysis for Functional Networks and Interactions"
+title: "Brain Functional Connectivity Networks Identification and Interactions"
 collection: Functional Networks and Interactions
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
