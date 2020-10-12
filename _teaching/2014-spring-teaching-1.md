@@ -1,5 +1,5 @@
 ---
-title: "Functional Networks and Interactions"
+title: "Biomedical Image Segmentation"
 collection: Functional Networks and Interactions
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
