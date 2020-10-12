@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Pattern Recognition and NeuroImage Analysis Laboratory"
-excerpt: "Pattern Recognition and NeuroImage Analysis Laboratory"
+title: "About  PRNA Lab"
+excerpt: "About  PRNA Lab"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-About  PRNA Lab
 
 Welcome to the Pattern Recognition and NeuroImage Analysis（PRNA）Lab at the Nanjing University of finance and Economics.
 
@@ -18,6 +17,7 @@ We take an interdisciplinary approach in our research and benefit significantly 
 We welcome you to browse the four themes of our current research projects, publications, and people who are involved in our research.
 
 Contact
+
 Qinghua Zhao
 
 Assistant Professor
