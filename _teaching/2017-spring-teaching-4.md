@@ -1,5 +1,5 @@
 ---
-title: "Face Recognition and Object Detection"
+title: "Pattern Recognition and Computational Neuroscience"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
