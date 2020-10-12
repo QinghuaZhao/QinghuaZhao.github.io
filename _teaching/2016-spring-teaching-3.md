@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning in Medical Imaging"
+title: "Machine Learning in Clinical Neuroimaging and Model uncertainty in clinical predictions"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
