@@ -13,11 +13,11 @@ main:
     url: /publications/
        
   - title: "Datasets"
-    url: /year-archive/
+    url: /cv/
     
   - title: "Software"
     url: /markdown/
     
   - title: "News"
-    url: /cv/
+    url: /year-archive/
 
