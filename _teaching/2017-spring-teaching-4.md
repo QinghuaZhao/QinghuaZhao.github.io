@@ -12,11 +12,10 @@ Pattern recognition is the automated recognition of patterns and regularities in
 
 Computational neuroscience is a branch of neuroscience which employs mathematical models, theoretical analysis and abstractions of the brain to understand the principles that govern the development, structure, physiology and cognitive abilities of the nervous system.
 
-Face Recognition
+Theme:
 ======
+Face Recognition
 
 Object Detection
-======
 
 Deep Learning
-======
