@@ -8,13 +8,15 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Pattern recognition is the automated recognition of patterns and regularities in data. It has applications in statistical data analysis, signal processing, image analysis, information retrieval, bioinformatics, data compression, computer graphics and machine learning. 
 
-Heading 1
+Computational neuroscience is a branch of neuroscience which employs mathematical models, theoretical analysis and abstractions of the brain to understand the principles that govern the development, structure, physiology and cognitive abilities of the nervous system.
+
+Face Recognition
 ======
 
-Heading 2
+Object Detection
 ======
 
-Heading 3
+Deep Learning
 ======
