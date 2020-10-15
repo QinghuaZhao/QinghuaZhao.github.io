@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Datasets"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,12 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+* HCP DATA
 ======
-* B.S. in Nanjing, Nanjing University of Science and Technology, 2008
-* M.S. in Nanjing, Nanjing University of Science and Technology, 2011
-* Ph.D in Nanjing, Nanjing University of Science and Technology, 2018
-* Visiting Scholar in Athens, Georgia,U.S, The University of Georgia, 2013-2016
+Research into the Human Connectome has exploded since the original Human Connectome Project grants were awarded by the NIH in 2011. Over the next decade, we expect to see dozens of new projects at institutions around the world researching aspects of how age, growth, disease, and other factors can affect the ever-changing connections in the human brain.
+
+The Connectome Coordination Facility (CCF) has been chartered to help coordinate these myriad research projects, harmonize their data, and facilitate the distribution and dissemination of results.
+
+The CCF has three primary aims:
+
+Run a “data acquisition help desk,” to facilitate in the collection of HCP-style data for optimal comparability. 
+Maintain and expand the HCP informatics infrastructure, to host and distribute connectome data from multiple studies on ConnectomeDB and Amazon Web Services.
+Serve as a “harmonization center,” to make data from multiple studies and institutions as comparable as possible.
 
 Work experience
 ======
