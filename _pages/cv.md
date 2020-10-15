@@ -42,3 +42,4 @@ The NDA mission is to accelerate scientific research and discovery through data 
 * INDI data(http://fcon_1000.projects.nitrc.org/)
 ======
 The International Neuroimaging Data-sharing Initiative (INDI) and 1000 Functional Connectomes Project (FCP).This bucket contains multiple neuroimaging datasets that are part of the International Neuroimaging Data-Sharing Initiative. Raw human and non-human primate neuroimaging data include 1) Structural MRI; 2) Functional MRI; 3) Diffusion Tensor Imaging; 4) Electroencephalogram (EEG) In addition to the raw data, preprocessed data is also included for some datasets. A complete list of the available datasets can be seen in the documentation lonk provided below.Each dataset within INDI has its own release schedule. See release date and frequency for [each dataset](http://fcon_1000.projects.nitrc.org/indi/IndiPro.html)
+
