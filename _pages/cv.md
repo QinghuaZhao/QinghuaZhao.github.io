@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 * HCP Data(https://www.humanconnectome.org/)
-
 ======
 
 Research into the Human Connectome has exploded since the original Human Connectome Project grants were awarded by the NIH in 2011. Over the next decade, we expect to see dozens of new projects at institutions around the world researching aspects of how age, growth, disease, and other factors can affect the ever-changing connections in the human brain.
@@ -23,7 +22,6 @@ The CCF has three primary aims:
 3.Serve as a “harmonization center,” to make data from multiple studies and institutions as comparable as possible.
 
 * ADNI (http://adni.loni.usc.edu/)
-
 ======
 
 The Alzheimer's Disease Neuroimaging Initiative (ADNI) is a longitudinal multicenter study designed to develop clinical, imaging, genetic, and biochemical biomarkers for the early detection and tracking of Alzheimer's disease (AD). Since its launch more than a decade ago, the landmark public-private partnership has made major contributions to AD research, enabling the sharing of data between researchers around the world.
