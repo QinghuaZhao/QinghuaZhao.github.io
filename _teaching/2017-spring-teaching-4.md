@@ -14,8 +14,8 @@ Computational neuroscience is a branch of neuroscience which employs mathematica
 
 Theme:
 ======
-Face Recognition
+* Face Recognition
 
-Object Detection
+* Object Detection
 
-Deep Learning
+* Deep Learning

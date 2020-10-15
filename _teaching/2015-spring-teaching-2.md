@@ -12,9 +12,9 @@ We focused on the evaluation of state-of-the-art methods for the segmentation of
 
 Theme:
 ======
-Segmentation: Models and Optimization
+* Segmentation: Models and Optimization
 
-Cardiac MR Segmentation
+* Cardiac MR Segmentation
 
-Brain Tumor Segmentation
+* Brain Tumor Segmentation
 

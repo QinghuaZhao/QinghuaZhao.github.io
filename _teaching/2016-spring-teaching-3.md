@@ -13,8 +13,8 @@ The machine learning track seeks novel contributions that address current method
 
 Theme:
 ======
-Deep learning in clinical neuroimaging
+* Deep learning in clinical neuroimaging
 
-Spatio-temporal brain data analysis
+* Spatio-temporal brain data analysis
 
-Biomarker discovery
+* Biomarker discovery
