@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* HCP Data(https://www.humanconnectome.org/)
-======
+## HCP Data(https://www.humanconnectome.org/)
 
 Research into the Human Connectome has exploded since the original Human Connectome Project grants were awarded by the NIH in 2011. Over the next decade, we expect to see dozens of new projects at institutions around the world researching aspects of how age, growth, disease, and other factors can affect the ever-changing connections in the human brain.
 
