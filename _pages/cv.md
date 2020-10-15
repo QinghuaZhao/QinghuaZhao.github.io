@@ -22,12 +22,12 @@ The CCF has three primary aims:
 
 * ADNI (http://adni.loni.usc.edu/)
 ======
-The Alzheimers Disease Neuroimaging Initiative (ADNI) is a longitudinal multicenter study designed to develop clinical, imaging, genetic, and biochemical biomarkers for the early detection and tracking of Alzheimers disease (AD). Since its launch more than a decade ago, the landmark public-private partnership has made major contributions to AD research, enabling the sharing of data between researchers around the world.
+The Alzheimer's Disease Neuroimaging Initiative (ADNI) is a longitudinal multicenter study designed to develop clinical, imaging, genetic, and biochemical biomarkers for the early detection and tracking of Alzheimer's disease (AD). Since its launch more than a decade ago, the landmark public-private partnership has made major contributions to AD research, enabling the sharing of data between researchers around the world.
 
 Three overarching goals of the ADNI study are:
-To detect AD at the earliest possible stage (pre-dementia) and identify ways to track the diseases progression with biomarkers.
+To detect AD at the earliest possible stage (pre-dementia) and identify ways to track the disease's progression with biomarkers.
 To support advances in AD intervention, prevention, and treatment through the application of new diagnostic methods at the earliest possible stages (when intervention may be most effective).
-To continually administer ADNIs innovative data-access policy, which provides all data without embargo to all scientists in the world.
+To continually administer ADNI's innovative data-access policy, which provides all data without embargo to all scientists in the world.
 
 * OpenfMRI(http://openfmri.org/)
 ======
