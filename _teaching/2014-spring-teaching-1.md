@@ -12,8 +12,8 @@ After decades of active research using in-vivo functional neuroimaging technique
 
 Theme:
 ======
-Functional Connectivity Networks Identification
+* Functional Connectivity Networks Identification
 
-Functional Connectivity and Interactions
+* Functional Connectivity and Interactions
 
-Functional Connectivity Networks and Brain disease
+* Functional Connectivity Networks and Brain disease
