@@ -20,7 +20,7 @@ The CCF has three primary aims:
 2.Maintain and expand the HCP informatics infrastructure, to host and distribute connectome data from multiple studies on ConnectomeDB and Amazon Web Services.
 3.Serve as a “harmonization center,” to make data from multiple studies and institutions as comparable as possible.
 
-* ADNI (http://adni.loni.usc.edu/)
+## * ADNI (http://adni.loni.usc.edu/)
 ======
 
 The Alzheimer's Disease Neuroimaging Initiative (ADNI) is a longitudinal multicenter study designed to develop clinical, imaging, genetic, and biochemical biomarkers for the early detection and tracking of Alzheimer's disease (AD). Since its launch more than a decade ago, the landmark public-private partnership has made major contributions to AD research, enabling the sharing of data between researchers around the world.
