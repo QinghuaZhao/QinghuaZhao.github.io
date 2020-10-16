@@ -1,4 +1,5 @@
 ---
+title: 'Future Blog Post'
 date: 2019-06-01
 permalink: /posts/2012/08/blog-post-4/
 tags:
@@ -7,4 +8,4 @@ tags:
   - category2
 ---
 
-Our PRNA lab has 6 papers accepted to MICCAI 2016. Congratulations. 
+Our PRNA lab has 6 papers accepted to MICCAI 2016. Congratulations.
