@@ -1,5 +1,5 @@
 ---
-title: 'Future Blog Post'
+title: 'Our PRNA lab has 6 papers accepted to MICCAI 2016'
 date: 2019-06-01
 permalink: /posts/2012/08/blog-post-4/
 tags:
