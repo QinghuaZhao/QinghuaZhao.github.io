@@ -1,14 +1,18 @@
----
-layout: archive
-title: "Portfolio"
-permalink: /portfolio/
-author_profile: true
----
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
+</head>
+<body>
 
-{% include base_path %}
+<h2>Rounded Images</h2>
 
+<img src="img_avatar.png" alt="Avatar" style="width:200px">
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
+</body>
+</html> 
