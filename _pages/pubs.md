@@ -29,7 +29,7 @@ redirect_from:
 
 [11] <i><b>Q. Zhao</b></i>., Sang, X., Metmer, H., Lu, J., & Alzheimer's Disease NeuroImaging Initiative.  Functional segregation of executive control network and frontoparietal network in Alzheimer's disease. <b>Cortex</b>, 120, 36-48. 2019. (SCI，1区，IF=4.907)
 
-[10] <i><b>Q. Zhao</b></i> Ali, Z., Lu, J., & Metmer, H. . Structure Feature Learning: Constructing Functional Connectivity Network for Alzheimer’s Disease Identification and Analysis. In Chinese Conference on Biometric Recognition pp. 107-115. 2019, October.<b>(<i>CCBR 2019, Oral, 接收率16%</i>)</b>.
+[10] <i><b>Q. Zhao</b></i>., Ali, Z., Lu, J., & Metmer, H. . Structure Feature Learning: Constructing Functional Connectivity Network for Alzheimer’s Disease Identification and Analysis. In Chinese Conference on Biometric Recognition pp. 107-115. 2019, October.<b>(<i>CCBR 2019, Oral, 接收率16%</i>)</b>.
 
 [9] Sang, X., <i><b>Q. Zhao</b></i>, Lu, H., & Lu, J. . Weighted fuzzy time series forecasting based on improved fuzzy C-means clustering algorithm. In 2018 IEEE International Conference on Progress in Informatics and Computing (pp. 80-84). IEEE. 2018, December. <b>(<i>PIC, 2018</i>)</b>.
 
