@@ -35,7 +35,7 @@ redirect_from:
 
 [8] <i><b>Q. Zhao</b></i>, Xi Jiang, Shijie Zhao, Xintao Hu, Junwei Han, Jianfeng Lu."Identifying Consistent Functional Brain Landmarks via Group-wise Sparse Representation of Concatenated Multitask fMRI Data",IEEE 15th International Symposium on Biomedical Imaging <b>(<i>ISBI, 2018</i>)</b>. 
 
-[7] <i><b>Q. Zhao</b></i>, Sang, X., & Lu, J. . Weighted group sparse functional connectivity modeling for Alzheimer's disease identification. In 2018 IEEE 15th International Symposium on Biomedical Imaging  (pp. 541-544). IEEE. 2018, April <b>(<i>ISBI, 2018</i>)</b>. 
+[7] <i><b>Q. Zhao</b></i>, Sang, X., & Lu, J. . Weighted group sparse functional connectivity modeling for Alzheimer's disease identification. In 2018 IEEE 15th International Symposium on Biomedical Imaging pp. 541-544. IEEE. 2018, <b>(<i>ISBI, 2018</i>)</b>. 
 
 [6] <i><b>Q. Zhao</b></i>, WXY Li, X Jiang, J Lv, J Lu, T Liu."Functional brain networks reconstruction using group sparsity-regularized learning".<b>Brain Imaging and Behavior</b> ,12,758-770. 2018. (SCI，2区，IF=3.985)
 
