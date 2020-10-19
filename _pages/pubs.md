@@ -11,7 +11,9 @@ redirect_from:
 
 ## HCP Data(https://www.humanconnectome.org/)
 
-[1] Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[1]  Qinghua Zhao, Jianfeng Lu, Jinglei Lv, Xi Jiang, Shijie Zhao, and Tianming Liu. "Exploring Brain Networks via Structured Sparse Representation of fMRI Data." (2016). In International Conference on Medical Image Computing and Computer-Assisted Intervention, pp. 55-62. Springer, Cham.<i>MICCAI 2016 Top Conference</i>.
+
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
 
 [2] Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
 
