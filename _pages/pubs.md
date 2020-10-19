@@ -13,8 +13,6 @@ redirect_from:
 
 [1] <i>Q. Zhao</i>, J. Lu., J. Lv, X.Jiang, S.Zhao, T.Liu. "Exploring Brain Networks via Structured Sparse Representation of fMRI Data." (2016). In International Conference on Medical Image Computing and Computer-Assisted Intervention, pp. 55-62. Springer, Cham.<b>(<i>MICCAI 2016, Top Conference</i>)</b>.
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
-
 [2] Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
 
 [3] Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
