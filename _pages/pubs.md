@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[1] X Jiang, T Zhang, <i>Q. Zhao</i>, J Lu, L Guo, T Liu. "Fiber connection pattern-guided structured sparse representation of whole-brain fMRI signals for functional network inference." (2015). In International Conference on Medical Image Computing and Computer-Assisted Intervention, pp. 133-141, 2015.<b>(<i>MICCAI 2015, Top Conference</i>)</b>.
+[1] X Jiang, T Zhang, <i>Q. Zhao</i>, J Lu, L Guo, T Liu. "Fiber connection pattern-guided structured sparse representation of whole-brain fMRI signals for functional network inference." (2015). In International Conference on Medical Image Computing and Computer-Assisted Intervention, pp. 133-141.<b>(<i>MICCAI 2015, Top Conference</i>)</b>.
 
 [2] <i>Q. Zhao</i>, J. Lu., J. Lv, X.Jiang, S.Zhao, T.Liu. "Exploring Brain Networks via Structured Sparse Representation of fMRI Data." (2016). In International Conference on Medical Image Computing and Computer-Assisted Intervention, pp. 55-62. Springer, Cham.<b>(<i>MICCAI 2016, Top Conference</i>)</b>.
 
