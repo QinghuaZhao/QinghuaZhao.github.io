@@ -13,15 +13,15 @@ redirect_from:
 
 [1] <i>Q. Zhao</i>, J. Lu., J. Lv, X.Jiang, S.Zhao, T.Liu. "Exploring Brain Networks via Structured Sparse Representation of fMRI Data." (2016). In International Conference on Medical Image Computing and Computer-Assisted Intervention, pp. 55-62. Springer, Cham.<b>(<i>MICCAI 2016, Top Conference</i>)</b>.
 
-[2] Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[2] X Jiang, T Zhang, Q Zhao, J Lu, L Guo, T Liu. "Fiber connection pattern-guided structured sparse representation of whole-brain fMRI signals for functional network inference." (2015). In International Conference on Medical Image Computing and Computer-Assisted Intervention, pp. 133-141, 2015.<b>(<i>MICCAI 2015, Top Conference</i>)</b>.
 
 [3] Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
 
 [4] Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
 
-1.Run a “data acquisition help desk,” to facilitate in the collection of HCP-style data for optimal comparability.
-2.Maintain and expand the HCP informatics infrastructure, to host and distribute connectome data from multiple studies on ConnectomeDB and Amazon Web Services.
-3.Serve as a “harmonization center,” to make data from multiple studies and institutions as comparable as possible.
+[3] Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+
+[4] Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
 
 ## ADNI (http://adni.loni.usc.edu/)
 
