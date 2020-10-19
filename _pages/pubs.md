@@ -41,7 +41,7 @@ redirect_from:
 
 [5] <i><b>Q. Zhao</b></i>., Lu, H., Metmer, H., Li, W. X., & Lu, J. . Evaluating functional connectivity of executive control network and frontoparietal network in Alzheimer’s disease. <b>Brain research</b>, 1678, 262-272. 2018  (SCI，3区，IF=3.929)
 
-[4] Metmer, H., Ji, C., Xiao, J., & Lu, J. . Evaluation of Default Mode Network In Mild Cognitive Impairment and Alzheimer’s Disease Individuals. <b>International Journal of Biometrics and Bioinformatics</b>, 11(1), 1. 2017 
+[4] Metmer, H., Ji, C., Xiao, J., <i><b>Q. Zhao</b></i>.,& Lu, J. Evaluation of Default Mode Network In Mild Cognitive Impairment and Alzheimer’s Disease Individuals. <b>International Journal of Biometrics and Bioinformatics</b>, 11(1), 1. 2017 
 
 [3] <i><b>Q. Zhao</b></i>, J. Lu., J. Lv, X.Jiang, S.Zhao, T.Liu. "Exploring Brain Networks via Structured Sparse Representation of fMRI Data." . In International Conference on Medical Image Computing and Computer-Assisted Intervention, pp. 55-62. 2016.<b>(<i>MICCAI 2016, Top Conference</i>)</b>.
 
