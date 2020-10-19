@@ -11,7 +11,7 @@ redirect_from:
 
 [20] Sang, X., Lu, H., <i><b>Q. Zhao</b></i>, Zhang, F. and Lu, J., Nonconvex regularizer and latent pattern based robust regression for face recognition. <b>Information Sciences</b>, 547, pp.384-403, 2020. (SCI，1区，IF=5.91)
 
-[19] Lu, H., Shen, Z., Sang, X., <i><b>Q. Zhao</b></i>, & Lu, J.  Community detection method using improved density peak clustering and nonnegative matrix factorization. <b>Neurocomputing</b>, 415, 247-257,2020. (SCI，2区，IF=4.072)
+[19] Lu, H., Shen, Z., Sang, X., <i><b>Q. Zhao</b></i>, & Lu, J.  Community detection method using improved density peak clustering and nonnegative matrix factorization. <b>Neurocomputing</b>, 415, 247-257, 2020. (SCI，2区，IF=4.072)
 
 [18] Sang, X., Xu, Y., Lu, H., <i><b>Q. Zhao</b></i>, Ali, Z., & Lu, J.  Robust mixed-norm constrained regression with application to face recognitions. <b>NEURAL COMPUTING & APPLICATIONS</b>, 2020. (SCI，2区，IF=4.664)
 
