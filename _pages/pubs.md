@@ -11,11 +11,13 @@ redirect_from:
 
 ## HCP Data(https://www.humanconnectome.org/)
 
-Research into the Human Connectome has exploded since the original Human Connectome Project grants were awarded by the NIH in 2011. Over the next decade, we expect to see dozens of new projects at institutions around the world researching aspects of how age, growth, disease, and other factors can affect the ever-changing connections in the human brain image.
+[1] Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
 
-The Connectome Coordination Facility (CCF) has been chartered to help coordinate these myriad research projects, harmonize their data, and facilitate the distribution and dissemination of results.
+[2] Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
 
-The CCF has three primary aims:
+[3] Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+
+[4] Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
 
 1.Run a “data acquisition help desk,” to facilitate in the collection of HCP-style data for optimal comparability.
 2.Maintain and expand the HCP informatics infrastructure, to host and distribute connectome data from multiple studies on ConnectomeDB and Amazon Web Services.
