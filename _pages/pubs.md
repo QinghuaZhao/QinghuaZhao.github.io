@@ -25,7 +25,7 @@ redirect_from:
 
 [13] Swati, Z. N. K., <i><b>Q. Zhao</b></i>, Kabir, M., Ali, F., Ali, Z., Ahmed, S., & Lu, J. . Brain tumor classification for MR images using transfer learning and fine-tuning. <b>Computerized Medical Imaging and Graphics</b>, 75, 34-46. 2019 (SCI，3区，IF=3.298)
 
-[12] <i><b>Q. Zhao</b></i>., Swati, Z. N., Metmer, H., Sang, X., & Lu, J.  Investigating executive control network and default mode network dysfunction in major depressive disorder. Neuroscience letters, 701, 154-161. 2019. (SCI，4区，IF=2.173)
+[12] <i><b>Q. Zhao</b></i>., Swati, Z. N., Metmer, H., Sang, X., & Lu, J.  Investigating executive control network and default mode network dysfunction in major depressive disorder. <b>Neuroscience letters</b>, 701, 154-161. 2019. (SCI，4区，IF=2.173)
 
 [11] <i><b>Q. Zhao</b></i>., Sang, X., Metmer, H., Lu, J., & Alzheimer's Disease NeuroImaging Initiative.  Functional segregation of executive control network and frontoparietal network in Alzheimer's disease. <b>Cortex</b>, 120, 36-48. 2019. (SCI，1区，IF=4.907)
 
