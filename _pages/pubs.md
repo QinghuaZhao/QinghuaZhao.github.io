@@ -13,7 +13,17 @@ redirect_from:
 
 [19] Lu, H., Shen, Z., Sang, X., <i><b>Q. Zhao</b></i>, & Lu, J.  Community detection method using improved density peak clustering and nonnegative matrix factorization. <b>Neurocomputing</b>, 415, 247-257,2020. (SCI，2区，IF=4.072)
 
-[18] Sang, X., Xu, Y., Lu, H., <i><b>Q. Zhao</b></i>, Ali, Z., & Lu, J.  Robust mixed-norm constrained regression with application to face recognitions. <b>NEURAL COMPUTING & APPLICATIONS</b>. 2020. (SCI，2区，IF=4.664)
+[18] Sang, X., Xu, Y., Lu, H., <i><b>Q. Zhao</b></i>, Ali, Z., & Lu, J.  Robust mixed-norm constrained regression with application to face recognitions. <b>NEURAL COMPUTING & APPLICATIONS</b>, 2020. (SCI，2区，IF=4.664)
+
+[17] Lu, H., Sang, X., <i><b>Q. Zhao</b></i>, & Lu, J. Community detection algorithm based on nonnegative matrix factorization and pairwise constraints. <b>Physica A: Statistical Mechanics and its Applications</b>, 545, 123491, 2020. (SCI，3区，IF=2.500)
+
+[16] Lu, H., <i><b>Q. Zhao</b></i>, Sang, X., & Lu, J.  Community Detection in Complex Networks Using Nonnegative Matrix Factorization and Density-Based Clustering Algorithm. <b>Neural Processing Letters</b>, 1-18. 2020.(SCI，3区，IF=2.591)
+
+[15] Swati, Z. N. K., <i><b>Q. Zhao</b></i>, Kabir, M., Ali, F., Ali, Z., Ahmed, S., & Lu, J.  Content-based brain tumor retrieval for MR images using transfer learning. <b>IEEE Access</b>, 7, 17809-17822, 2019. (SCI，2区，IF=4.098)
+
+[14] Swati, Z. N. K., <i><b>Q. Zhao</b></i>, Kabir, M., Ali, F., Ali, Z., Ahmed, S., & Lu, J. . Brain tumor classification for MR images using transfer learning and fine-tuning. <b>Computerized Medical Imaging and Graphics</b>, 75, 34-46. 2019 (SCI，3区，IF=3.298)
+
+[14] Sang, X., <i><b>Q. Zhao</b></i>, Lu, H., & Lu, J. . Weighted fuzzy time series forecasting based on improved fuzzy C-means clustering algorithm. In 2018 IEEE International Conference on Progress in Informatics and Computing (pp. 80-84). IEEE.2018, December. <b>(<i>PIC, 2018</i>)</b>.
 
 [1] X Jiang, T Zhang, <i><b>Q. Zhao</b></i>, J Lu, L Guo, T Liu. "Fiber connection pattern-guided structured sparse representation of whole-brain fMRI signals for functional network inference." (2015). In International Conference on Medical Image Computing and Computer-Assisted Intervention, pp. 133-141.<b>(<i>MICCAI 2015, Top Conference</i>)</b>.
 
