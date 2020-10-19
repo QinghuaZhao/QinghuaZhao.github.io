@@ -13,7 +13,7 @@ redirect_from:
 
 [19] Lu, H., Shen, Z., Sang, X., <i><b>Q. Zhao</b></i>, & Lu, J.  Community detection method using improved density peak clustering and nonnegative matrix factorization. <b>Neurocomputing</b>, 415, 247-257, 2020. (SCI，2区，IF=4.072)
 
-[18] Sang, X., Xu, Y., Lu, H., <i><b>Q. Zhao</b></i>, Ali, Z., & Lu, J.  Robust mixed-norm constrained regression with application to face recognitions. <b>NEURAL COMPUTING & APPLICATIONS</b>, 2020. (SCI，2区，IF=4.664)
+[18] Sang, X., Xu, Y., Lu, H., <i><b>Q. Zhao</b></i>, Ali, Z., & Lu, J.  Robust mixed-norm constrained regression with application to face recognitions. <b>Neural Computing & Applications</b>, 2020. (SCI，2区，IF=4.664)
 
 [17] Lu, H., Sang, X., <i><b>Q. Zhao</b></i>, & Lu, J. Community detection algorithm based on nonnegative matrix factorization and pairwise constraints. <b>Physica A: Statistical Mechanics and its Applications</b>, 545, 123491, 2020. (SCI，3区，IF=2.500)
 
