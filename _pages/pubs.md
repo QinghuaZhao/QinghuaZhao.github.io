@@ -13,7 +13,7 @@ redirect_from:
 
 [2] <i>Q. Zhao</i>, J. Lu., J. Lv, X.Jiang, S.Zhao, T.Liu. "Exploring Brain Networks via Structured Sparse Representation of fMRI Data." (2016). In International Conference on Medical Image Computing and Computer-Assisted Intervention, pp. 55-62. Springer, Cham.<b>(<i>MICCAI 2016, Top Conference</i>)</b>.
 
-[3] Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[3] B Ge, M Makkie, J Wang, S Zhao, X Jiang, X Li，<i>Q. Zhao</i>, J Lu, L Guo, T Liu.（2015）."Signal sampling for efficient sparse representation of resting state fMRI data". pp. 1360-1363.<b>(<i>ISBI 2015</i>)</b>.
 
 [4] Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
 
