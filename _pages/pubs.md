@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-[20] Sang, X., Lu, H., <i><b>Q. Zhao</b></i>, Zhang, F. and Lu, J., Nonconvex regularizer and latent pattern based robust regression for face recognition. <b>Information Sciences</b>, 547, pp.384-403.2020.(SCI，1区，IF=5.91)
+[20] Sang, X., Lu, H., <i><b>Q. Zhao</b></i>, Zhang, F. and Lu, J., Nonconvex regularizer and latent pattern based robust regression for face recognition. <b>Information Sciences</b>, 547, pp.384-403, 2020. (SCI，1区，IF=5.91)
+
+[19] Lu, H., Shen, Z., Sang, X., <i><b>Q. Zhao</b></i>, & Lu, J.  Community detection method using improved density peak clustering and nonnegative matrix factorization. <b>Neurocomputing</b>, 415, 247-257,2020. (SCI，2区，IF=4.072)
+
+[18] Sang, X., Xu, Y., Lu, H., <i><b>Q. Zhao</b></i>, Ali, Z., & Lu, J.  Robust mixed-norm constrained regression with application to face recognitions. <b>NEURAL COMPUTING & APPLICATIONS</b>. 2020. (SCI，2区，IF=4.664)
 
 [1] X Jiang, T Zhang, <i><b>Q. Zhao</b></i>, J Lu, L Guo, T Liu. "Fiber connection pattern-guided structured sparse representation of whole-brain fMRI signals for functional network inference." (2015). In International Conference on Medical Image Computing and Computer-Assisted Intervention, pp. 133-141.<b>(<i>MICCAI 2015, Top Conference</i>)</b>.
 
