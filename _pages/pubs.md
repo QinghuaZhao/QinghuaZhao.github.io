@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Pubs"
+title: "Journal Papers"
 permalink: /pubs/
 author_profile: true
 redirect_from:
