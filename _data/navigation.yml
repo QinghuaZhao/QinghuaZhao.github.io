@@ -4,7 +4,7 @@ main:
     url: /about/
 
   - title: "People"
-    url: /portfolio/
+    url: /members/
 
   - title: "Reserch"
     url: /teaching/
